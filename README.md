@@ -1,2 +1,2 @@
 # alurdads
-Curso de introdução a data science da Alura
+Exercício realizado no curso de introdução a data science da Alura.
